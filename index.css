@@ -1,0 +1,144 @@
+.main-container {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    flex-direction: column;
+}
+
+.container-1  {
+    border: 2px solid  rgb(237, 53, 117);
+    cursor: pointer;
+}
+
+.radio-button-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    padding: 6px 20px 6px 10px;
+
+}
+
+.unit-radio {
+    display: flex;
+
+}
+
+.main-header {
+    color: green;
+}
+
+.sizecolor {
+    display: flex;
+}
+
+.hash1 {
+    display: flex;
+}
+
+.select1 {
+    width: 100px;
+    height: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.sizeclass {
+    margin-left: 36px;
+    margin-top: 20px;
+    margin-bottom: 11px;
+}
+
+.sizeclassColor {
+    margin-left: 42px;
+    margin-top: 20px;
+    margin-bottom: 11px;
+}
+
+.colmar {
+    margin-top: 10px;
+}
+
+.marginleft {
+    margin-left: 10px;
+}
+
+.main-header {
+    display: flex;
+    justify-content: center;
+}
+
+.centered-text {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+}
+
+.sizecolor1 {
+    display: flex;
+    margin-bottom: 14px;
+}
+
+.container-2 {
+    border: 2px solid  rgb(237, 53, 117);
+    margin-top: 20px;
+}
+
+.container-3 {
+    border: 2px solid  rgb(237, 53, 117);
+    margin-top: 20px;
+}
+
+.freedelivey {
+    margin-top: 10px;
+    display: flex;
+    width: 333px;
+    justify-content: space-between;
+}
+
+.addtocart {
+    background-color: rgb(237, 53, 117);
+    margin-top: 10px;
+    width:320px;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    color: white;
+}
+
+.cross-value {
+    text-decoration: line-through;
+    font-size: 10px;
+    opacity: 0.7;
+}
+
+.centered-text span {
+    background:#fff; 
+    padding:0 10px; 
+}
+.unit1{
+ display: flex;
+}
+.offper{
+    background-color:rgb(237, 53, 117) ;
+    margin-left:10px ;
+    margin-bottom: 4px;
+    padding: 2px 10px 2px 4px;
+}
+
+
+.container-2 {
+    cursor: pointer;
+}
+
+.container-3 {
+    cursor: pointer;
+}
+.firstHidden, .secondHidden, .thirdHidden {
+    display: none;
+}
+.radiobutton{
+    accent-color: rgb(237, 53, 117);
+}
